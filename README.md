@@ -11,7 +11,7 @@ In the year **3157**, the alien **Ugutna Empire** conquered Earth and enslaved h
 
 ---
 
-## Features
+## Features:
 
 -  Smooth arcade-style space shooter gameplay  
 -  Story mode with intro and ending scenes  
@@ -24,7 +24,7 @@ In the year **3157**, the alien **Ugutna Empire** conquered Earth and enslaved h
 
 ---
 
-##  Tech Stack
+##  Tech Stack:
 
 - **C++**
 - **Raylib**
@@ -32,7 +32,7 @@ In the year **3157**, the alien **Ugutna Empire** conquered Earth and enslaved h
 
 ---
 
-##  Controls
+##  Controls:
 
 | Action | Keys |
 |--------|------|
@@ -42,5 +42,5 @@ In the year **3157**, the alien **Ugutna Empire** conquered Earth and enslaved h
 
 ---
 
-### Mission
+### Mission:
 Survive. Upgrade your ship. Defeat Emperor Ugutna. Free humanity.
